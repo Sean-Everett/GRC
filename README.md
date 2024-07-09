@@ -1,2 +1,6 @@
 # Governance Risk and Compliance
-My journey into GRC
+
+This is my journey and notes into GRC training.
+
+I will be training on the following topics:
+[Compliance and Auditing](GRC/Topics/Compliance-and-Auditing)
