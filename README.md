@@ -11,5 +11,6 @@ This is my journey and notes into GRC training. I will be looking into the follo
 
 ### Frameworks
 
-  [NIST Cybersecurity Framework](/Frameworks/NIST) <br>
-  [CIS](/Frameworks/CIS) <br>
+- [CIS](/Frameworks/CIS)
+- [NIST Cybersecurity Framework](/Frameworks/NIST)
+
