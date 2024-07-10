@@ -7,7 +7,7 @@ This is my journey and notes into GRC training. I will be looking into the follo
   [Compliance](/Topics/Compliance) <br>
   [Governance](/Topics/Governance) <br>
   [Risk](/Topics/Risk) <br>
-  [Security Awareness](Security-Awareness) </p><br>
+  [Security Awareness](Security-Awareness) <br>
 
 <h3> Frameworks </h3>
 
