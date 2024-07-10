@@ -1,7 +1,7 @@
-<h1> Governance Risk and Compliance (GRC) </h1>
+# Governance Risk and Compliance (GRC)
 
 This is my journey and notes into GRC training. I will be looking into the following: <br>
-<h3> Topics </h3>
+### Topics
 
   [Audit](/Topics/Audit) <br>
   [Compliance](/Topics/Compliance) <br>
@@ -9,10 +9,7 @@ This is my journey and notes into GRC training. I will be looking into the follo
   [Risk](/Topics/Risk) <br>
   [Security Awareness](Security-Awareness) <br>
 
-<h3> Frameworks </h3>
+### Frameworks
 
   [NIST Cybersecurity Framework](/Frameworks/NIST) <br>
-
-# 1
-## 2
-### 3
+  [CIS](/Frameworks/CIS) <br>
