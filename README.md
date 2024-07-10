@@ -3,7 +3,7 @@
 This is my journey and notes into GRC training. I will be looking into the following: <br>
 <h3> Topics </h3>
 
-  <p> [Audit](/Topics/Audit) <br>
+  [Audit](/Topics/Audit) <br>
   [Compliance](/Topics/Compliance) <br>
   [Governance](/Topics/Governance) <br>
   [Risk](/Topics/Risk) <br>
@@ -13,3 +13,6 @@ This is my journey and notes into GRC training. I will be looking into the follo
 
   [NIST Cybersecurity Framework](/Frameworks/NIST) <br>
 
+# 1
+## 2
+### 3
