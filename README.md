@@ -7,7 +7,7 @@ This is my journey and notes into GRC training. I will be looking into the follo
 - [Compliance](/Topics/Compliance.md)
 - [Governance](/Topics/Governance.md)
 - [Risk](/Topics/Risk.md)
-- [Security Awareness](Security-Awareness.md)
+- [Security Awareness](/Topics/Security-Awareness.md)
 
 ### Frameworks
 
