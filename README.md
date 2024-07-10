@@ -3,14 +3,14 @@
 This is my journey and notes into GRC training. I will be looking into the following: <br>
 ### Topics
 
-- [Audit](/Topics/Audit)  
-- [Compliance](/Topics/Compliance)
-- [Governance](/Topics/Governance)
-- [Risk](/Topics/Risk)
-- [Security Awareness](Security-Awareness)
+- [Audit](/Topics/Audit.md)  
+- [Compliance](/Topics/Compliance.md)
+- [Governance](/Topics/Governance.md)
+- [Risk](/Topics/Risk.md)
+- [Security Awareness](Security-Awareness.md)
 
 ### Frameworks
 
-- [CIS](/Frameworks/CIS)
-- [NIST](/Frameworks/NIST)
+- [CIS](/Frameworks/CIS.md)
+- [NIST](/Frameworks/NIST.md)
 
