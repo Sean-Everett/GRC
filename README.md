@@ -3,11 +3,11 @@
 This is my journey and notes into GRC training. I will be looking into the following: <br>
 <h3> Topics </h3>
 
-  [Audit](/Topics/Audit) <br>
+  <p> [Audit](/Topics/Audit) <br>
   [Compliance](/Topics/Compliance) <br>
   [Governance](/Topics/Governance) <br>
   [Risk](/Topics/Risk) <br>
-  [Security Awareness](Security-Awareness) <br>
+  [Security Awareness](Security-Awareness) </p><br>
 
 <h3> Frameworks </h3>
 
