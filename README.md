@@ -11,6 +11,7 @@ This is my journey and notes into GRC training. I will be looking into the follo
 
 ### Frameworks
 
+- [COBIT](/Frameworks/COBIT.md)
 - [CIS](/Frameworks/CIS.md)
 - [NIST](/Frameworks/NIST.md)
 
